@@ -2,7 +2,9 @@
 
 - 👨🏻‍🎓 I have a degree of PhD in Physics.
 - 👨🏻‍💻 I'm currently working on Korea University as Research Professor.
-- ⚙️ I use : `.c`, `.cpp`, `.py`, `.sh`
+- ⚙️ I use : `C/C++`, `python`
+- 🖥 Parallel computing : `Grid`, `HTCondor`, `PROOF`
+- 💿 OS : `macOS`, `Linux(CentOS)`, `Linux(Ubuntu)`, `Windows`
 - 📖 I’m learning and studying : machine learning (deep learning)
 - 📫 How to reach me : instagram - [@xxvjparkvxx](https://www.instagram.com/jpxrkxx/) facebook - [@parkjonghan](https://www.facebook.com/parkjonghan/)
 
