@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 I have a degree of PhD in Physics.
 - 👨🏻‍💻 I'm currently working on Korea University as Research Professor.
-- ⚙️ I use : `C/C++`, `python`
+- ⚙️ I use : `C/C++`, `python`, `keras`
 - 🖥 Parallel computing : `Grid`, `HTCondor`, `PROOF`
 - 💿 OS : `macOS`, `Linux(CentOS)`, `Linux(Ubuntu)`, `Windows`
 - 📖 I’m learning and studying : machine learning (deep learning)
