@@ -6,7 +6,7 @@
 - 🖥 Parallel computing : `Grid`, `HTCondor`, `PROOF`
 - 💿 OS : `macOS`, `Linux(CentOS)`, `Linux(Ubuntu)`, `Windows`
 - 📖 I’m learning and studying : machine learning (deep learning)
-- 📫 How to reach me : instagram - [@xxvjparkvxx](https://www.instagram.com/jpxrkxx/) facebook - [@parkjonghan](https://www.facebook.com/parkjonghan/)
+- 📫 How to reach me : instagram - [@__jpxrk](https://www.instagram.com/jpxrkxx/) facebook - [@parkjonghan](https://www.facebook.com/parkjonghan/)
 
 ### Curriculum Vitae
 **Education**
